@@ -1,0 +1,98 @@
+FOUNDER AGREEMENT
+
+This Founder Agreement ("Agreement") is entered into on January 15, 2024 between:
+
+FOUNDERS:
+1. Rajesh Kumar, residing at Bangalore, Karnataka, India
+   PAN: ABCDE1234F, Aadhaar: XXXX-XXXX-5678
+
+2. Priya Sharma, residing at Bangalore, Karnataka, India
+   PAN: FGHIJ5678K, Aadhaar: XXXX-XXXX-9012
+
+(collectively referred to as "Founders")
+
+WHEREAS the Founders wish to establish TechInnovations Private Limited ("Company") under
+the Companies Act, 2013, with its registered office in Bangalore, Karnataka, India.
+
+1. EQUITY DISTRIBUTION
+
+1.1 The authorized share capital shall be INR 10,00,000 divided into 10,00,000 equity
+shares of INR 1 each.
+
+1.2 Initial equity distribution:
+    - Rajesh Kumar: 60% (600,000 shares)
+    - Priya Sharma: 40% (400,000 shares)
+
+1.3 All shares shall be issued as per the provisions of the Companies Act, 2013.
+
+2. VESTING SCHEDULE
+
+2.1 All equity shall vest over a period of 4 (four) years from the date of incorporation.
+
+2.2 25% of the shares shall vest after completion of 1 year ("Cliff Period") and the
+remaining 75% shall vest monthly over the subsequent 36 months.
+
+2.3 Upon termination of a Founder's involvement with the Company before completion of
+vesting, unvested shares shall be subject to buyback at par value as per Section 68
+of the Companies Act, 2013.
+
+3. INTELLECTUAL PROPERTY ASSIGNMENT
+
+3.1 All Founders hereby assign to the Company all rights, title and interest in any and
+all intellectual property created in connection with the Company's business.
+
+3.2 This assignment is made pursuant to Section 16 and 17 of the Indian Copyright Act,
+1957, and includes all patents, trademarks, copyrights, trade secrets, and other
+proprietary rights.
+
+3.3 Each Founder warrants that the IP assigned does not infringe any third-party rights.
+
+4. ROLES AND RESPONSIBILITIES
+
+4.1 Rajesh Kumar shall serve as Chief Executive Officer (CEO)
+4.2 Priya Sharma shall serve as Chief Technology Officer (CTO)
+4.3 Major decisions shall require unanimous consent of all Founders
+
+5. NON-COMPETE AND NON-SOLICITATION
+
+5.1 The Founders acknowledge that under Section 27 of the Indian Contract Act, 1872,
+restraints on trade during the term of partnership are permissible but post-termination
+non-compete clauses are generally unenforceable.
+
+5.2 During the term of this Agreement, Founders shall not engage in any competing business.
+
+5.3 Founders agree not to solicit Company employees or customers for 12 months post-exit.
+
+6. CONFIDENTIALITY
+
+6.1 All Founders shall maintain strict confidentiality of proprietary information for
+a period of 3 years following termination.
+
+7. DISPUTE RESOLUTION
+
+7.1 Any disputes shall first be attempted to be resolved through good faith negotiations.
+
+7.2 If negotiations fail, disputes shall be resolved through arbitration under the
+Arbitration and Conciliation Act, 1996.
+
+7.3 Arbitration shall be conducted in Bangalore, India with 3 arbitrators.
+
+8. GOVERNING LAW
+
+8.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+
+8.2 The courts of Bangalore, Karnataka shall have exclusive jurisdiction over any disputes.
+
+9. STAMP DUTY
+
+9.1 This Agreement shall be duly stamped as per the Indian Stamp Act and the stamp laws
+applicable in Karnataka.
+
+9.2 Stamp duty charges shall be borne equally by all Founders.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written above.
+
+
+_____________________          _____________________
+Rajesh Kumar                   Priya Sharma
+Founder                        Founder
