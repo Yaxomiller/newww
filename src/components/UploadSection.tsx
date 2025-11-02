@@ -211,7 +211,6 @@ export default function UploadSection({
     }
 
     console.log('Both backends unavailable, using demo mode');
-    setError('Backend unavailable. Using demo mode with mock analysis.');
 
     try {
       const result = await analyzeMockDocument(file);
